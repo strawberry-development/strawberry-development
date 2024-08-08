@@ -1,6 +1,5 @@
-## Greeting World !
+### Greeting World !
 
-<br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="width: 150px; height: auto;" />
 
 ### I am Strawberry-development
