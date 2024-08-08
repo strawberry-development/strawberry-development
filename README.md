@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="width: 200px; height: auto;" />
 
-### I am Strawberry-development
+### I'm Strawberry-development
 - A student in IT & Open Source enthusiast.
 - Currently working on some small project.
 - I like to create stuff that people enjoy.
 
-I have passion for exploring various domains beyond IT, including art, graphic design, painting, music, and more. I hope you will enjoy my project and this profile as much as I enjoy make it !
+I have a keen interest in exploring various domains beyond IT, including art, graphic design, painting, and music. Feel free to check out my projects and this profile—I hope you enjoy them as much as I enjoy creating them!
