@@ -7,4 +7,4 @@
 - Currently working on some small project.
 - I like to create stuff that people enjoy.
 
-I have passion for exploring various domains beyond IT, including art, graphic design, painting, music, and more.
+I have passion for exploring various domains beyond IT, including art, graphic design, painting, music, and more. I hope you will enjoy my project and this profile as much as I enjoy make it !
