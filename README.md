@@ -1,6 +1,11 @@
-# Greeting World !
+## Greeting World !
 
-I'll go by the name of strawberry-development and have enthusiast with a passion for exploring various domains beyond IT, including art, graphic design, painting, music, and more.
+<br />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
+### I am Strawberry-development
+- A student in IT & Open Source enthusiast.
+- Currently working on some small project.
+- I like to create stuff that people enjoy.
 
-I like to create stuff that people enjoy.
+I have passion for exploring various domains beyond IT, including art, graphic design, painting, music, and more.
