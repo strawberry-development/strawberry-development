@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="width: 200px; height: auto;" />
 
 ### I'm Strawberry-development
-- A student in IT & Open Source (Free Software) enthusiast.
+- A student in IT & Open Source (as Free Software) enthusiast.
 - Currently working on some small project.
 - I like to create stuff that people enjoy.
 
