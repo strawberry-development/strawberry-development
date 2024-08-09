@@ -1,6 +1,6 @@
 ## Greeting World !
 
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" style="width: 200px; height: auto;" />
+<img align="right" alt="GIF" src="https://github.com/strawberry-development/strawberry-development/blob/main/rick.gif" style="width: 200px; height: auto;" />
 
 ### I'm Strawberry-development
 - A student in IT & Open Source (as Free Software) enthusiast.
