@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/strawberry-development/strawberry-development/blob/main/rick.gif" style="width: 200px; height: auto;" />
 
 ### I'm Strawberry-development
-- A student in IT & Open Source (as Free Software) enthusiast.
+- I'm a student in IT & Open Source (as Free Software) enthusiast.
 - Currently working on some small project.
 - I like to create stuff that people enjoy.
 
