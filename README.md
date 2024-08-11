@@ -1,4 +1,4 @@
-## Greeting World !
+### Greeting World !
 
 <img align="right" alt="GIF" src="https://github.com/strawberry-development/strawberry-development/blob/main/rick.gif" style="width: 200px; height: auto;" />
 
