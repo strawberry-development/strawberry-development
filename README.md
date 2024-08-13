@@ -8,4 +8,4 @@
 - I like to create stuff that people enjoy.
 
 I'm currently working on an imageboard that focuses less on consumerism compared to what the internet typically offers.
-<em>If you need anything, feel free to contact me on my email available on my github profile.</em>
+<br><em>If you need anything, feel free to contact me on my email available on my github profile.</em>
