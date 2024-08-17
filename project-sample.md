@@ -2,14 +2,14 @@
 
 ![Logo](img/logo/android-chrome-192x192.png "Logo")
 
-# Project TItle - use
+# Project Title - use
 Description goes here
 
 ## Know issue
 - None yet
 
 ## Setup
-...
+Explain setup briefly
 
 ## Overview
 ![Overview of the page](.example/Screenshot.png "Screenshot")
