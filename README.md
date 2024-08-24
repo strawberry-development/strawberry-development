@@ -7,5 +7,4 @@
 - Working on some small projects.
 - I enjoy art and creating things that people appreciate.
 
-I'm currently working on an imageboard that focuses less on consumerism compared to what the internet typically offers.
 <br><em>If you need anything, feel free to contact me via the email available on my GitHub profile.</em>
