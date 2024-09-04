@@ -8,3 +8,4 @@
 - I enjoy art and creating things that people appreciate.
 
 <em>If you need anything, feel free to blackmail me via the email available on my GitHub profile.</em>
+This is my professional github account.
