@@ -8,5 +8,3 @@ While coding is my main focus, I also love creating digital art and designing th
 <a href="https://www.instagram.com/strawberry.and.design/"><img src="https://github.com/strawberry-development/strawberry-development/blob/main/instagram-banner.png" style="width: 175px; height: auto;" /></a>
 <br><br>
 <em>This is a professional github account</em>
-
-![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer.png)
