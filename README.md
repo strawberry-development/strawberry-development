@@ -1,5 +1,3 @@
-![head.png](https://github.com/strawberry-development/strawberry-development/blob/main/header.png)
-
 Hi, I’m Strawberry Development! <br>
 I’m a passionate IT student with a strong interest in Open Source and Free Software. <br>
 Currently, I’m exploring a variety of projects to learn, experiment, and contribute to the developer community. <br>
