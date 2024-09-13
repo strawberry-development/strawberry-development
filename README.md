@@ -1,7 +1,7 @@
 Hi, I’m Strawberry Development! <br>
 I’m a passionate IT student with a strong interest in Open Source and Free Software. <br>
 Currently, I’m exploring a variety of projects to learn, experiment, and contribute to the developer community. <br>
-While coding is my main focus, I also love creating digital art and designing things that bring joy to others.
+While coding, I also love creating art and designing things that bring joy to others.
 
 <br>
 <a href="https://github.com/strawberry-development"><img src="https://github.com/strawberry-development/strawberry-development/blob/main/github-banner.png" style="width: 175px; height: auto;" /></a>
