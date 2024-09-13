@@ -5,7 +5,7 @@ I’m a passionate IT student with a strong interest in Open Source and Free Sof
 Currently, I’m exploring a variety of projects to learn, experiment, and contribute to the developer community. <br>
 While coding, I also love creating art and designing things that bring joy to others.
 
-<br><br>
+<br>
 <em>This is a professional github account</em>
 
 ![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer.png)
