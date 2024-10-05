@@ -1,4 +1,4 @@
-![header.png](https://github.com/strawberry-development/strawberry-development/blob/main/header.png)
+![header.png](https://github.com/strawberry-development/strawberry-development/blob/main/header-decoration.png)
 
 Hi, I’m Strawberry Development! <br>
 I’m a passionate IT student with a strong interest in Open Source and Free Software. <br>
@@ -8,6 +8,6 @@ While coding, I also love creating art and designing things that bring joy to ot
 <br>
 <em>This is a professional github account</em>
 
-![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer.png)
+![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer-decoration.png)
 <a href="https://github.com/strawberry-development"><img src="https://github.com/strawberry-development/strawberry-development/blob/main/github-banner.png" style="width: 175px; height: auto;" /></a>
 <a href="https://www.instagram.com/strawberry.and.design/"><img src="https://github.com/strawberry-development/strawberry-development/blob/main/instagram-banner.png" style="width: 175px; height: auto;" /></a>
