@@ -16,7 +16,7 @@ While coding, I also love creating art and designing things that bring joy to ot
     <img src="https://github.com/strawberry-development/strawberry-development/blob/main/instagram-banner.png" style="width: 175px; height: auto;" />
 </a>
 
-<br><br>
+<br>
 
 ![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer-decoration.png)
 
