@@ -20,6 +20,4 @@ While coding, I also love creating art and designing things that bring joy to ot
 
 <br>
 
-![footer.png](https://github.com/strawberry-development/strawberry-development/blob/main/footer-decoration.png)
-
 </div>
