@@ -5,8 +5,6 @@ While coding, I also enjoy creating art and designing things that bring joy to o
 
 *This is a professional GitHub account.*
 
-Currently, I'm working on the Laravel package **Siftify**. I also work on side projects like **Computer Landscape**, which aims to share different kinds of projects using generative art or filters that I’ve created myself.
-
 <a href="https://github.com/strawberry-development">
     <img src="https://github.com/strawberry-development/strawberry-development/blob/main/github-banner.png" style="width: 175px; height: auto;" />
 </a>
